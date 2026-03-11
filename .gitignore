@@ -3,6 +3,8 @@ build/
 .gradle/
 *.apk
 *.aab
+app/release
+app/build
 
 # Gradle wrapper jar is needed
 !gradle/wrapper/gradle-wrapper.jar

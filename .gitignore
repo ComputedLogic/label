@@ -1,0 +1,20 @@
+# Build
+build/
+.gradle/
+*.apk
+*.aab
+
+# Gradle wrapper jar is needed
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local & IDE
+local.properties
+.idea/
+*.iml
+
+# Signing
+*.jks
+*.keystore
+
+# OS
+.DS_Store

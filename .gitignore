@@ -15,6 +15,11 @@ local.properties
 # Signing
 *.jks
 *.keystore
+keystore.properties
 
 # OS
 .DS_Store
+Thumbs.db
+
+# Kotlin
+.kotlin/
